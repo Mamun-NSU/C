@@ -3,9 +3,9 @@
 int main()
 {
 
-    int N;
+    int N = 100;
     // Input N form User
-    scanf("%d", &N);
+    // scanf("%d", &N);
 
     for (int i = 1; i <= N; i++)
     {
