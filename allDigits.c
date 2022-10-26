@@ -2,7 +2,6 @@
 
 int main()
 {
-
     char str[100];
     // Input string str form User
     scanf("%s", str);
