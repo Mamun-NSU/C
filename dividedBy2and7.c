@@ -2,7 +2,6 @@
 
 int main()
 {
-
     int N;
     // Input N form User
     scanf("%d", &N);
