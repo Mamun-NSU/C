@@ -1,10 +1,10 @@
 
-
 #include <stdio.h>
 
 int main()
 {
 
+    // Replace minimun and maximum
     int n;
     scanf("%d", &n);
     int max = -10000, min = 99999;
