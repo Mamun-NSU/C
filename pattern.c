@@ -2,7 +2,7 @@
 
 int main()
 {
-
+    // This program print pattern
     int N;
     // Input N form User
 
