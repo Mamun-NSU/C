@@ -10,6 +10,7 @@ int main()
     scanf("%s", S);
 
     int A[26] = {0};
+    // Array for 26 latter
     int i = 0;
     int newIndex;
     while (S[i] != '\0')
