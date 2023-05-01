@@ -6,7 +6,6 @@
 int main()
 {
 
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */
     int N, K;
     scanf("%d %d", &N, &K);
     while (K)
