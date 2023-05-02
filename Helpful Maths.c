@@ -15,7 +15,7 @@ int main()
 
     for (int i = 0, j = 0; i < n, j < number; i = i + 2, j++)
     {
-        // printf("%c \n", str[i]);
+
         Arr[j] = str[i];
     }
 
@@ -32,14 +32,6 @@ int main()
             }
         }
     }
-
-    // printf("\n");
-    //  for(int i=0; i<number; i++)
-    //   {
-    //       printf("%c", Arr[i]);
-    //   }
-
-    //   printf("\n");
 
     for (int i = 0; i < number; i++)
     {
