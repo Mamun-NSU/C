@@ -9,14 +9,12 @@ int main()
     fgets(str, 100, stdin);
 
     int n = strlen(str) - 1;
-    // printf("%d", n);
 
     for (int i = 0; i < n; i++)
     {
         if (str[i] == 'a')
             count++;
     }
-    // printf("%d", count);
 
     m = n / 2;
     if (count > m)
