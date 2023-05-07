@@ -7,7 +7,7 @@ int main()
     scanf("%d", &N);
 
     int K = N - 1;
-
+    // This is for upper side
     for (int i = 1; i <= N; i++)
     {
         for (int j = K; j >= 1; j--)
@@ -21,7 +21,7 @@ int main()
         printf("\n");
         K--;
     }
-
+    // Thi is for lower side
     K = N - 1;
     for (int i = N - 1; i >= 1; i--)
     {
