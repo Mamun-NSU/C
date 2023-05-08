@@ -2,7 +2,7 @@
 
 int main()
 {
-    // Write C code here
+
     int N;
     char ch;
     int count1 = 0;
@@ -17,16 +17,13 @@ int main()
         if (ch == 'A')
         {
             count1++;
-            // printf("Hello % d\n", count1);
         }
         if (ch == 'D')
         {
             count2++;
-            // printf("HI % d\n", count2);
         }
     }
-    // printf("%c \n", ch);
-    //  printf("C1 = %d  C2 = %d \n", count1, count2);
+
     if (count1 > count2)
     {
         printf("Anton \n");
