@@ -16,6 +16,7 @@ int main()
         sum = sum + A[i];
     }
 
+    // when sum less than 0
     if (sum < 0)
     {
         sum = sum * -1;
