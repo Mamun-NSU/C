@@ -19,8 +19,7 @@ int main()
         {
             sum = sum + K;
         }
-        //   printf("%d %d \n",sum, i);
-    }
+        }
 
     printf("%d\n", sum);
 
