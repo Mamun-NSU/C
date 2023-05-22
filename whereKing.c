@@ -34,13 +34,11 @@ int main()
             leftSum = 0;
             rightSum = 0;
 
-            // for Lest sum
             for (int j = 0; j < i; j++)
             {
                 leftSum = leftSum + A[j];
             }
 
-            // for Right sum
             for (int j = i + 1; j < N; j++)
             {
                 rightSum = rightSum + A[j];
