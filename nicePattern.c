@@ -34,8 +34,7 @@ int main()
         printf("\n");
     }
 
-    // Thi is for lower side
-    K = N - 1;
+        K = N - 1;
     for (int i = N - 1; i >= 1; i--)
     {
         for (int j = K; j < N; j++)
