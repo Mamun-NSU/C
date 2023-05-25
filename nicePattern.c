@@ -7,7 +7,6 @@
 int main()
 {
 
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */
     int N, S, K;
     scanf("%d", &N);
     S = 1, K = N - 1;
@@ -34,7 +33,7 @@ int main()
         printf("\n");
     }
 
-        K = N - 1;
+    K = N - 1;
     for (int i = N - 1; i >= 1; i--)
     {
         for (int j = K; j < N; j++)
