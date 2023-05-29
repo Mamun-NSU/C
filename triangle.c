@@ -4,7 +4,7 @@ int main()
 {
 
     int N;
-    // Input N form User
+
     scanf("%d", &N);
 
     for (int i = 0; i < N; i++)
