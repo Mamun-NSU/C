@@ -6,7 +6,7 @@ int main()
     int N;
 
     scanf("%d", &N);
-    // For upper part
+
     for (int i = 0; i < N; i++)
     {
         for (int j = 0; j <= i; j++)
