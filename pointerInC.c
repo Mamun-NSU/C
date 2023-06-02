@@ -2,7 +2,6 @@
 
 void update(int *a, int *b)
 {
-    // Complete this function
 
     int x, y;
     x = *a;
