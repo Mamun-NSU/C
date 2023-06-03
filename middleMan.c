@@ -33,12 +33,6 @@ int main()
         }
     }
 
-    // printf("\nAfter sorting: \n");
-    // for(int i=0; i<N; i++){
-    //     printf("%d ", A[i]);
-    // }
-    // printf("\n");
-
     if (N % 2 == 1)
     {
         printf("%d\n", A[N / 2]);
